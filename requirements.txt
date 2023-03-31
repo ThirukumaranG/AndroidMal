@@ -1,1 +1,2 @@
-https://github.com/scikit-learn/scikit-learn
+scikit-learn
+pandas
